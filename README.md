@@ -23,4 +23,4 @@ conda activate tkinter
 ## EXEファイルの起動
 <br>
 
-translatorフォルダの`dentaku.exe`を起動する。
+dentakuフォルダの`dentaku.exe`を起動する。
